@@ -16,9 +16,6 @@
       "logo": "logo/logo_gfriend"
     }
   ],
-
-  /* ProductCategory : NONE(0), ALBUM(1), COLLAB(2), MEMBERSHIP(3), POPUP(4), DVD(5), WEVERSE(6), MD(7), BOOK(8), ARTTOY(9) */
-  /* SaleType : NONE(StringUtils.EMPTY), PRE_SALE("예약판매"), ONLY_HERE("단독판매") */
   "products": [
   	{
   		"id": 0,
@@ -174,13 +171,6 @@
         "isNew" : false
   	}
   ],
-  /* events.apply {
-            add(EventVo("image", "","", CategoryAction(ProductCategory.ALBUM)))
-            add(EventVo("image", "","", ProductAction(12)))
-            add(EventVo("image", "","", PostAction(1)))
-            add(EventVo("image", "","", SubCategoryAction(ProductCategory.COLLAB, "KWANGJUYO")))
-            add(EventVo("image", "","", CategoryAction(ProductCategory.POPUP)))
-        }*/
   "events" : [
   	{
   		"id": 0,
