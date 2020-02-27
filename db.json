@@ -14,7 +14,7 @@
       "id": 2,
       "title": "GFRIEND",
       "logo": "logo/logo_gfriend"
-    },
+    }
   ],
 
   /* ProductCategory : NONE(0), ALBUM(1), COLLAB(2), MEMBERSHIP(3), POPUP(4), DVD(5), WEVERSE(6), MD(7), BOOK(8), ARTTOY(9) */
@@ -149,7 +149,7 @@
   		"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
   		"price" : 33000,
   		"isSoldOut" : false
-	},
+	}
   ],
   "board" : [
   	{
