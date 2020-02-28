@@ -1,211 +1,213 @@
 {
-  "artists": [
-    {
-      "id": 0,
-      "name": "BTS",
-      "logo": "logo/logo_bts"
-    },
-    {
-      "id": 1,
-      "title": "TOMORROW X TOGETHER",
-      "logo": "logo/logo_txt"
-    },
-    {
-      "id": 2,
-      "title": "GFRIEND",
-      "logo": "logo/logo_gfriend"
-    }
-  ],
-  "products": [
-  	{
-  		"id": 0,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_map_of_the_soul_persona.png",
-  		"name" : "Map Of The Soul : Persona",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 1,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_the_most_beautiful_moment_in_life_part_1.jpg",
-  		"name" : "화양연화 1",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 2,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_the_most_beautiful_moment_in_life_part_2.jpg",
-  		"name" : "화양연화 2",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 3,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/the_most_beautiful_moment_in_life_young_forever.jpeg",
-  		"name" : "화양연화 - Young Forever",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 4,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_wings.jpg",
-  		"name" : "Wings",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 5,
-  		"category" : 1,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_ly-her.jpg",
-  		"name" : "Love Yourself : Her",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 6,
-  		"category" : 2,
-  		"subCategory" : "lemona",
-  		"saleType" : "",
-  		"image" : "product/bts_faceyourself.jpg",
-  		"name" : "Lemona Special Package - Face Yourself",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 7,
-  		"category" : 2,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_love_yourself_tear_cover.jpeg",
-  		"name" : "Love Yourself 轉'Tear",
-  		"price" : 14800,
-  		"isSoldOut" : true
-	},
-	{
-  		"id": 8,
-  		"category" : 2,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_love_yourself_answer_album_cover.jpg",
-  		"name" : "Love Yourself 結'Answer",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 9,
-  		"category" : 2,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_map_of_the_soul_persona.png",
-  		"name" : "Map Of The Soul : Persona",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 10,
-  		"category" : 2,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_love_yourself_answer_album_cover.jpg",
-  		"name" : "Love Yourself 結'Answer",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 11,
-  		"category" : 2,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_map_of_the_soul_persona.png",
-  		"name" : "Map Of The Soul : Persona",
-  		"price" : 14800,
-  		"isSoldOut" : false
-	},
-	{
-  		"id": 12,
-  		"category" : 3,
-  		"subCategory" : "",
-  		"saleType" : "",
-  		"image" : "product/bts_map_of_the_soul_persona.png",
-  		"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
-  		"price" : 33000,
-  		"isSoldOut" : false
+	"shopinfo": {
+	  "artists": [
+	    {
+	      "id": 0,
+	      "name": "BTS",
+	      "logo": "logo/logo_bts"
+	    },
+	    {
+	      "id": 1,
+	      "title": "TOMORROW X TOGETHER",
+	      "logo": "logo/logo_txt"
+	    },
+	    {
+	      "id": 2,
+	      "title": "GFRIEND",
+	      "logo": "logo/logo_gfriend"
+	    }
+	  ],
+	  "products": [
+	  	{
+	  		"id": 0,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_map_of_the_soul_persona.png",
+	  		"name" : "Map Of The Soul : Persona",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 1,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_the_most_beautiful_moment_in_life_part_1.jpg",
+	  		"name" : "화양연화 1",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 2,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_the_most_beautiful_moment_in_life_part_2.jpg",
+	  		"name" : "화양연화 2",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 3,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/the_most_beautiful_moment_in_life_young_forever.jpeg",
+	  		"name" : "화양연화 - Young Forever",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 4,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_wings.jpg",
+	  		"name" : "Wings",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 5,
+	  		"category" : 1,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_ly-her.jpg",
+	  		"name" : "Love Yourself : Her",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 6,
+	  		"category" : 2,
+	  		"subCategory" : "lemona",
+	  		"saleType" : "",
+	  		"image" : "product/bts_faceyourself.jpg",
+	  		"name" : "Lemona Special Package - Face Yourself",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 7,
+	  		"category" : 2,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_love_yourself_tear_cover.jpeg",
+	  		"name" : "Love Yourself 轉'Tear",
+	  		"price" : 14800,
+	  		"isSoldOut" : true
+		},
+		{
+	  		"id": 8,
+	  		"category" : 2,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_love_yourself_answer_album_cover.jpg",
+	  		"name" : "Love Yourself 結'Answer",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 9,
+	  		"category" : 2,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_map_of_the_soul_persona.png",
+	  		"name" : "Map Of The Soul : Persona",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 10,
+	  		"category" : 2,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_love_yourself_answer_album_cover.jpg",
+	  		"name" : "Love Yourself 結'Answer",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 11,
+	  		"category" : 2,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_map_of_the_soul_persona.png",
+	  		"name" : "Map Of The Soul : Persona",
+	  		"price" : 14800,
+	  		"isSoldOut" : false
+		},
+		{
+	  		"id": 12,
+	  		"category" : 3,
+	  		"subCategory" : "",
+	  		"saleType" : "",
+	  		"image" : "product/bts_map_of_the_soul_persona.png",
+	  		"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+	  		"price" : 33000,
+	  		"isSoldOut" : false
+		}
+	  ],
+	  "posts" : [
+	  	{
+	  		"id": 0,
+	  		"title": "BTS ON - 7\" Vinyl 예약 판매 안내",
+	        "content": "안녕하세요...", 
+	        "date" : 1582259768, 
+	        "isNew" : false
+	  	},
+	  	{
+	  		"id": 1,
+	  		"title": "[Announcement] QR code for 'MAP OF THE SOUL : 7' is not available in the UK and Ireland",
+	        "content": "안녕하세요...", 
+	        "date" : 1582245368, 
+	        "isNew" : false
+	  	},
+	  	{
+	  		"id": 2,
+	  		"title": "2020 BTS WINTER PACKAGE 구성품 중 일부 제품에 불량 및 표기 오류 안내",
+	        "content": "안녕하세요...", 
+	        "date" : 1581986168, 
+	        "isNew" : false
+	  	}
+	  ],
+	  "events" : [
+	  	{
+	  		"id": 0,
+	  		"image": "event/1.jpg",
+	        "title": "MAP OF THE SOUL : 7 발매", 
+	        "description" : "'온전한 나'를 찾은 방탄소년단의 7년", 
+	        "action" : false
+	  	},
+	  	{
+	  		"id": 1,
+	  		"image": "event/2.jpg",
+	        "title": "BTS GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP", 
+	        "description" : "BTS 공식멤버십 가입은 위플리에서!!", 
+	        "action" : false
+	  	},
+	  	{
+	  		"id": 2,
+	  		"image": "event/3.jpg",
+	        "title": "BTS ON - 7\" Vinyl 예약 판매", 
+	        "description" : "아날로그 감성으로 즐기는 ON", 
+	        "action" : false
+	  	},
+	  	{
+	  		"id": 3,
+	  		"image": "event/4.jpg",
+	        "title": "레모나 산 BTS 스페셜 패키지", 
+	        "description" : "방탄소년단 모든 멤버의 케이스를 한 번에 가질 수 있는 기획!", 
+	        "action" : false
+	  	},
+	  	{
+	  		"id": 5,
+	  		"image": "event/5.jpg",
+	        "title": "BTS POP-UP : HOUSE OF BTS 감사제", 
+	        "description" : "놓치신 MD가 있으셨다면 이번 기회를 꼭 잡으세요!", 
+	        "action" : false
+	  	}
+	  ]
 	}
-  ],
-  "posts" : [
-  	{
-  		"id": 0,
-  		"title": "BTS ON - 7\" Vinyl 예약 판매 안내",
-        "content": "안녕하세요...", 
-        "date" : 1582259768, 
-        "isNew" : false
-  	},
-  	{
-  		"id": 1,
-  		"title": "[Announcement] QR code for 'MAP OF THE SOUL : 7' is not available in the UK and Ireland",
-        "content": "안녕하세요...", 
-        "date" : 1582245368, 
-        "isNew" : false
-  	},
-  	{
-  		"id": 2,
-  		"title": "2020 BTS WINTER PACKAGE 구성품 중 일부 제품에 불량 및 표기 오류 안내",
-        "content": "안녕하세요...", 
-        "date" : 1581986168, 
-        "isNew" : false
-  	}
-  ],
-  "events" : [
-  	{
-  		"id": 0,
-  		"image": "event/1.jpg",
-        "title": "MAP OF THE SOUL : 7 발매", 
-        "description" : "'온전한 나'를 찾은 방탄소년단의 7년", 
-        "action" : false
-  	},
-  	{
-  		"id": 1,
-  		"image": "event/2.jpg",
-        "title": "BTS GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP", 
-        "description" : "BTS 공식멤버십 가입은 위플리에서!!", 
-        "action" : false
-  	},
-  	{
-  		"id": 2,
-  		"image": "event/3.jpg",
-        "title": "BTS ON - 7\" Vinyl 예약 판매", 
-        "description" : "아날로그 감성으로 즐기는 ON", 
-        "action" : false
-  	},
-  	{
-  		"id": 3,
-  		"image": "event/4.jpg",
-        "title": "레모나 산 BTS 스페셜 패키지", 
-        "description" : "방탄소년단 모든 멤버의 케이스를 한 번에 가질 수 있는 기획!", 
-        "action" : false
-  	},
-  	{
-  		"id": 5,
-  		"image": "event/5.jpg",
-        "title": "BTS POP-UP : HOUSE OF BTS 감사제", 
-        "description" : "놓치신 MD가 있으셨다면 이번 기회를 꼭 잡으세요!", 
-        "action" : false
-  	}
-  ]
 }
