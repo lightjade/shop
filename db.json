@@ -24,35 +24,55 @@
 				"image": "event/1.jpg",
 				"title": "MAP OF THE SOUL : 7 발매", 
 				"description" : "'온전한 나'를 찾은 방탄소년단의 7년", 
-				"action" : false
+				"action" : {
+					"type" : 1,
+					"mainValue" : 1,
+					"subVale" : 0
+				}
 			},
 			{
 				"id": 1,
 				"image": "event/2.jpg",
 				"title": "BTS GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP", 
 				"description" : "BTS 공식멤버십 가입은 위플리에서!!", 
-				"action" : false
+				"action" : {
+					"type" : 3,
+					"mainValue" : 12,
+					"subVale" : 0
+				}
 			},
 			{
 				"id": 2,
 				"image": "event/3.jpg",
 				"title": "BTS ON - 7\" Vinyl 예약 판매", 
 				"description" : "아날로그 감성으로 즐기는 ON", 
-				"action" : false
+				"action" : {
+					"type" : 3,
+					"mainValue" : 12,
+					"subVale" : 0
+				}
 			},
 			{
 				"id": 3,
 				"image": "event/4.jpg",
 				"title": "레모나 산 BTS 스페셜 패키지", 
 				"description" : "방탄소년단 모든 멤버의 케이스를 한 번에 가질 수 있는 기획!", 
-				"action" : false
+				"action" : {
+					"type" : 2,
+					"mainValue" : 2,
+					"subVale" : "lemona"
+				}
 			},
 			{
 				"id": 5,
 				"image": "event/5.jpg",
 				"title": "BTS POP-UP : HOUSE OF BTS 감사제", 
 				"description" : "놓치신 MD가 있으셨다면 이번 기회를 꼭 잡으세요!", 
-				"action" : false
+				"action" : {
+					"type" : 4,
+					"mainValue" : 1,
+					"subVale" : 0
+				}
 			}
 		],
 		"products": [
