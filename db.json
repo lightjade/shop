@@ -188,7 +188,7 @@
 			},
 			{
 				"id": 11,
-				"category" : 2,
+				"category" : 3,
 				"subCategory" : "",
 				"saleType" : "",
 				"image" : "product/bts_map_of_the_soul_persona.png",
@@ -205,7 +205,88 @@
 				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
 				"price" : 33000,
 				"isSoldOut" : false
+			},
+			{
+				"id": 13,
+				"category" : 3,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 14,
+				"category" : 4,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 15,
+				"category" : 5,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 16,
+				"category" : 5,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 17,
+				"category" : 6,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 18,
+				"category" : 7,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 19,
+				"category" : 8,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
+			},
+			{
+				"id": 20,
+				"category" : 9,
+				"subCategory" : "",
+				"saleType" : "",
+				"image" : "product/bts_map_of_the_soul_persona.png",
+				"name" : "GLOBAL OFFICIAL FANCLUB ARMY MEMBERSHIP",
+				"price" : 33000,
+				"isSoldOut" : false
 			}
+
 		],
 		"posts" : [
 			{
